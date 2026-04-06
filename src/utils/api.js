@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const api = axios.create({ baseURL: '/api' })
+const api = axios.create({ baseURL: 'https://shyam-photo-gallery-backend.onrender.com/api' })
 
 // Har request se pehle localStorage se token uthao aur header mein lagao
 api.interceptors.request.use((config) => {
