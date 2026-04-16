@@ -241,7 +241,7 @@ export default function DeveloperPage() {
             className="font-display text-5xl md:text-6xl font-bold mb-2"
           >
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 via-gold-400 to-primary-300">
-              Mohit
+              Mayank
             </span>
           </motion.h1>
 
@@ -251,7 +251,7 @@ export default function DeveloperPage() {
             transition={{ delay: 0.5 }}
             className="text-gold-400 font-semibold text-lg mb-2 tracking-wide flex items-center justify-center gap-2"
           >
-            <FiStar className="text-gold-400" /> MD Bhai{" "}
+            <FiStar className="text-gold-400" /> Sharma Ji{" "}
             <FiStar className="text-gold-400" />
           </motion.p>
 
@@ -473,7 +473,7 @@ export default function DeveloperPage() {
         <div className="border-t border-white/10 pt-8">
           <p className="text-white/40 text-sm flex items-center justify-center gap-1.5 flex-wrap">
             Made with <FiHeart className="text-red-400 animate-pulse" /> by
-            <span className="text-gold-400 font-bold">Mohit (MD Bhai)</span>
+            <span className="text-gold-400 font-bold">Mayank (Sharma Ji)</span>
             for
             <span className="text-primary-400 font-bold flex items-center gap-1">
               <HiOutlinePhotograph /> Shyam Photo Gallery
